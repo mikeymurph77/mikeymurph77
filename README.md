@@ -1,5 +1,8 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mikeymurph77/mikeymurph77/master/images/greetings.gif">
+</p>
+
 <p align='center'>
-  <h1 align='center'>👋 Hi! I'm Mike Murphy</h1>
   <h3 align='center'>Software Developer | Boston, MA</h3>
 </p>
  
