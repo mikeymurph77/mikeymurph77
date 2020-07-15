@@ -33,7 +33,3 @@ Working as a Fullstack Software Developer at [Jobcase](http://jobcase.com), a so
   <a href="mailto:mikemurphy@hey.com"><img height="50" src="https://raw.githubusercontent.com/mikeymurph77/mikeymurph77/master/images/email.png"></a>&nbsp;&nbsp;
   <a href="https://twitter/mikeymurph77"><img height="50" src="https://raw.githubusercontent.com/mikeymurph77/mikeymurph77/master/images/twitter.png"></a>&nbsp;&nbsp;
 </p>
-
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=mikeymurph77.visitor-badge">
-</p>
