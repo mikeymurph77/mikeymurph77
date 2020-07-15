@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://res.cloudinary.com/dtghgjg3i/image/upload/v1594836924/gatsby-personal-site/mike-murphy-logo-avatar-300_kwsai3.png">
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/mikeymurph77/mikeymurph77/master/images/greetings.gif">
 </p>
 
