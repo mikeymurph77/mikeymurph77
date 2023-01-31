@@ -10,7 +10,7 @@
   <h3 align='center'>Senior Software Developer | Boston, MA</h3>
 </p>
  
-Working as a Fullstack Software Developer at [Jobcase](http://jobcase.com), a social platform dedicated to empowering and advocating the world's workforce. Passionate about learning and applying new technologies. My side projects and blog posts ~~are~~ will eventually be found at [mikeymurph.com](https://mikeymurph.com)... stay tuned as I am currently rebuilding the site using the [JAMstack](https://jamstack.org/).
+Working as a Fullstack Software Developer at [Jobcase](http://jobcase.com), a social platform dedicated to empowering and advocating the world's workforce. Passionate about learning and applying new technologies. My side projects and blog posts can be found at [mikeymurph.com](https://mikeymurph.com).
 
 <h3 align="center">Currently Working With</h3>
 <p align='center'>
